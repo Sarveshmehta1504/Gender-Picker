@@ -16,7 +16,9 @@ class MainActivity : ComponentActivity() {
             GenderPickerTheme {
                 GenderPicker (
                     modifier = Modifier.fillMaxSize()
-                ){}
+                ){
+
+                }
             }
         }
     }
